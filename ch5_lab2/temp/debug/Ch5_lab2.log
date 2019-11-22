@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(376,5): warning MSB8004: Intermediate 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Intermediate 目錄。
+  main.c
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1218,5): warning MSB8012: TargetName(..\..\temp\debug) 與 Linker 的 OutputFile 屬性值 (debug) 不相符。這可能會導致您的專案建置不正確。若要改正這種情況，請確認 $(OutDir)、$(TargetName) 和 $(TargetExt) 屬性值必須與 %(Link.OutputFile) 中指定的值相符。
+  Ch5_lab2.vcxproj -> C:\Users\USER\Desktop\LAB\ch5_lab2\Ch5_lab2\Debug\..\..\temp\debug.exe
